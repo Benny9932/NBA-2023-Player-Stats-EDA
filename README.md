@@ -1,7 +1,7 @@
 # NBA-2023-Player-Stats-EDA
 Exploratory data analysis of 2023 NBA player stats.
 
-[Kaggle Notebook]([URL](https://www.kaggle.com/code/benny9932/2023-nba-player-stats-eda))
+[Click to view Kaggle Notebook](https://www.kaggle.com/code/benny9932/2023-nba-player-stats-eda)
 
 
 
